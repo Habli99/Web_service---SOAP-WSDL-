@@ -7,7 +7,6 @@ import jakarta.xml.bind.annotation.XmlTransient;
 import java.util.Date;
 
 //JAVA BEAN
-
 @XmlRootElement
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Compte {
